@@ -8,6 +8,12 @@
 - **Configuration Service**
 
 ## Modules
+### Parametres Divers(Informations générales/ type souscription)
+- Entités
+    - Etablissement
+    - Abonnement
+- Enum
+    - Type Abonnment 
 ### Inscription (Étudiant/Élève/Écolier)
 - **Entités**
     - Personne
