@@ -8,7 +8,7 @@
 - **Configuration Service**
 
 ## Modules
-### Parametres Divers(Informations générales/ type souscription)
+### Paramètres Divers(Informations générales/ type souscription)
 - Entités
     - Etablissement
     - Abonnement
